@@ -4,7 +4,7 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to steal some👆"
+LANDING_BUTTON = "ENTER👆"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "I have nothing but intelligence."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
@@ -15,13 +15,13 @@ PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/sleepybee-dev/sleepybee-dev-log"
 # (Optional) Site title in navbar
-SITE_TITLE = "Someone's Second 🧠"
+SITE_TITLE = "sleepybee's dev-log"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
 SITE_URL = "https://sleepybee-dev.netlify.app"
 # (Optional) Site Timezone
-TIMEZONE = "Asia/Hong_Kong"
+TIMEZONE = "Asia/Seoul"
 ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
@@ -38,7 +38,7 @@ SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
 FOOTER = ""
 # (Optional, default main) Root section name.
-ROOT_SECTION_NAME = "main"
+ROOT_SECTION_NAME = "logs"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {

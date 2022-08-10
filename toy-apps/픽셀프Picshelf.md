@@ -1,7 +1,8 @@
 
-https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.picshelf
+[!<img src="https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.picshelf"
+ width=80>]
 
-![[picshelf_launcher_icon.png]]
+<img src="../content/picshelf_launcher_icon.png" width=200/>
 
 Concept
 ---
@@ -45,7 +46,7 @@ Dev Story
 
 - `Kotlin`, `MVVM`, `AppWidgetManager`
 - Widget을 다루는 개발을 안 해봐서 경험 삼아 만들어 본 것도 있다.
-- 사이즈가 작은 앱임에도 습관적으로 Bitbucket을 쓰다 보니 소스가 비공개였다. 하지만 취업 전선에서 내 코드 스타일을 공유해야 해서 이제와서야 GitHub에 올린다.
+- 사이즈가 작은 앱임에도 습관적으로 Bitbucket을 쓰다 보니 소스가 비공개였다. 하지만 취업 전선에서 내 코드 스타일을 보여줄 필요가 있어서 이제와서야 GitHub에 올린다.
 - GitHub : 
 
 

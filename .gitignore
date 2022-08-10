@@ -1,0 +1,5 @@
+
+*.json
+*.js
+.obsidian/plugins/obsidian-git/styles.css
+.obsidian/workspace

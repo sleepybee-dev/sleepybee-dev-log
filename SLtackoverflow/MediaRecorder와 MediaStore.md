@@ -2,16 +2,44 @@
 --
 Android 10 이상을 타겟팅하는 기기부터 외부 저장소 루트는 아예 사용할 수가 없고 몇 가지 허용된 공간만 사용 가능하다. 또, 사용 가능한 외부 저장소에 액세스할 경우에 SAF나 MediaStore를 사용하도록 강제되었다.
 
-[developer.android.com](https://developer.android.com/training/data-storage/shared/media?hl=ko)
-
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://developer.android.com/training/data-storage/shared/media?hl=ko" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://developer.android.com/images/social/android-developers.png?hl=ko')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">공유 저장소의 미디어 파일에 액세스  |  Android 개발자  |  Android Developers</h1>
+		<p class="rich-link-card-description">
+		
+		</p>
+		<p class="rich-link-href">
+		https://developer.android.com/training/data-storage/shared/media?hl=ko
+		</p>
+	</div>
+</a></div>
 
 이 저장소 정책은 한참 됐지만 MediaRecorder에서 약간 헤맸는데 솔루션이 있는 웹페이지가 없길래 정리해 둔다.
 
+
 MediaRecorder
 ---
-[developer.android.com](https://developer.android.com/guide/topics/media/mediarecorder?hl=ko)
-
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://developer.android.com/guide/topics/media/mediarecorder?hl=ko" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://developer.android.com/images/social/android-developers.png?hl=ko')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">MediaRecorder 개요  |  Android 개발자  |  Android Developers</h1>
+		<p class="rich-link-card-description">
+		
+		</p>
+		<p class="rich-link-href">
+		https://developer.android.com/guide/topics/media/mediarecorder?hl=ko
+		</p>
+	</div>
+</a></div>
 시시콜콜한 것들은 도큐먼트에 잘 나와 있다.
+
 
 
 외부저장소에 저장하기

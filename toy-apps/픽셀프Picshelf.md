@@ -1,6 +1,4 @@
-
-[!<img src="https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.picshelf"
- width=80>]
+> 플레이스토어 : https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.picshelf
 
 <img src="../content/picshelf_launcher_icon.png" width=200/>
 
@@ -22,7 +20,7 @@ why
 
 Simple Scenario
 ---
-![[picshelf_05.jpeg]]
+<img src="https://sleepybee-dev.netlify.app/docs/content/picshelf_05.jpeg" width="200px"/>
 
 ![[picshelf_04.jpeg]]
 

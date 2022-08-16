@@ -28,7 +28,7 @@ recorder = new MediaRecorder(); recorder.setAudioSource(MediaRecorder.AudioSourc
 그렇다면 outputFile의 Path를 어떻게 지정할 수 있을까? 
 setOutputFile은 FileDescriptor를 파라미터로 갖는 것이 있는데 이를 이용한다.
 
-![[Pasted image 20220810180158.png]]
+![[mediarecorder.png]]
 
 
 - 실수 예제

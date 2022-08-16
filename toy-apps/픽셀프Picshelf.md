@@ -46,8 +46,8 @@ Dev Story
 
 - `Kotlin`, `MVVM`, `AppWidgetManager`
 - Widget을 다루는 개발을 안 해봐서 경험 삼아 만들어 본 것도 있다.
-- 사이즈가 작은 앱임에도 습관적으로 Bitbucket을 쓰다 보니 소스가 비공개였다. 하지만 취업 전선에서 내 코드 스타일을 보여줄 필요가 있어서 이제와서야 GitHub에 올린다.
-- GitHub : 
+- 사이즈가 작은 앱임에도 습관적으로 Bitbucket을 쓰다 보니 소스가 비공개였다. 하지만 취업 전선에서 내 코드 스타일을 보여줄 필요가 있어서 이제와서야 아키텍쳐도 붙이고 GitHub에 공유한다.
+- GitHub : https://github.com/sleepybee-dev/picshelf
 
 
 Release

@@ -4,7 +4,7 @@
 	</div>
 	</div>
 	<div class="rich-link-card-text">
-		<h1 class="rich-link-card-title">PTube - Private Video Channels - Apps on Google Play</h1>
+		<h3 class="rich-link-card-title">PTube - Private Video Channels - Apps on Google Play</h3>
 		<p class="rich-link-card-description">
 		Create your own private video channel.
 		</p>

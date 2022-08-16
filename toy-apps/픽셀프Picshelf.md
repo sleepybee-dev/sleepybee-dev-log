@@ -4,7 +4,7 @@
 	</div>
 	</div>
 	<div class="rich-link-card-text">
-		<h1 class="rich-link-card-title">사진 액자 위젯 - 픽셸프 - Apps on Google Play</h1>
+		<h3 class="rich-link-card-title">사진 액자 위젯 - 픽셸프 - Apps on Google Play</h3>
 		<p class="rich-link-card-description">
 		Check your photos on the home screen.
 		</p>
@@ -14,9 +14,6 @@
 	</div>
 </a></div>
 
-
-
-<img src="../content/picshelf_launcher_icon.png" width=200/>
 
 Concept
 ---

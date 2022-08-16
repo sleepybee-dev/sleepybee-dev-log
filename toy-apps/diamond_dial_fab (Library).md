@@ -1,5 +1,22 @@
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://pub.dev/packages/diamond_dial_fab" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://pub.dev/static/hash-6pt3begn/img/pub-dev-icon-cover-image.png')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">diamond_dial_fab | Flutter Package</h1>
+		<p class="rich-link-card-description">
+		Diamond shaped floating action button with dials.
+		</p>
+		<p class="rich-link-href">
+		https://pub.dev/packages/diamond_dial_fab
+		</p>
+	</div>
+</a></div>
+
 diamond_dial_fab
 ---
+
 ![[demo.gif]]
 
 **diamond_dial_fab**는 Flutter UI 오픈소스 라이브러리다. 다이아몬드 형태의 플로팅 버튼에 라운딩을 주고 Child Button을 갖는 것이 주요 기능이다. 전반적인 기능은 아래와 같다.

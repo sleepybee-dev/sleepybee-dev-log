@@ -1,3 +1,19 @@
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.ptube" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://play-lh.googleusercontent.com/_AHN3yJeSefJQr0qNdCs3Nc0rEzh836xV7C1nx2DVh3ivy5W6kWAJRQeUiw-Bn03Dw=w600-h300-pc0xffffff-pd')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h3 class="rich-link-card-title">PTube - Private Video Channels - Apps on Google Play</h3>
+		<p class="rich-link-card-description">
+		Create your own private video channel.
+		</p>
+		<p class="rich-link-href">
+		https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.ptube
+		</p>
+	</div>
+</a></div>
+
 Concept
 ---
 
@@ -17,15 +33,8 @@ why
 
 Simple Scenario
 ---
-
-- 스마트폰 바탕화면 롱클릭하여 위젯 추가 > 픽셀프 선택 > 사진 선택 후 재배치 및 크기 조절   
+- 프라이빗 채널 개설 (또는 초대코드 입력) -> 동영상 업로드 -> 게시된 동영상을 누르면 유튜브로 연결  
    
-
-Remarkable
----
-
--  
-
 
 
 Dev Story

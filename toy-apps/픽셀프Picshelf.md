@@ -1,8 +1,19 @@
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.picshelf" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://play-lh.googleusercontent.com/Io_32thL5IlHQOel9o2EWGXRJV36EDa0MS-OwezejyoU7Mt0rwIfOeTb-WQbRmCUCA=w600-h300-pc0xffffff-pd')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h3 class="rich-link-card-title">사진 액자 위젯 - 픽셸프 - Apps on Google Play</h3>
+		<p class="rich-link-card-description">
+		Check your photos on the home screen.
+		</p>
+		<p class="rich-link-href">
+		https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.picshelf
+		</p>
+	</div>
+</a></div>
 
-[!<img src="https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.picshelf"
- width=80>]
-
-<img src="../content/picshelf_launcher_icon.png" width=200/>
 
 Concept
 ---
@@ -22,15 +33,6 @@ why
 
 Simple Scenario
 ---
-![[picshelf_05.jpeg]]
-
-![[picshelf_04.jpeg]]
-
-![[picshelf_03.jpeg]]
-
-![[picshelf_02.jpeg]]
-
-![](../content/picshelf_01.jpeg =100x100)
 -   스마트폰 바탕화면 롱클릭하여 위젯 추가 > 픽셀프 선택 > 사진 선택 후 재배치 및 크기 조절   
    
 
@@ -43,11 +45,10 @@ Remarkable
 
 Dev Story
 ---
-
-- `Kotlin`, `MVVM`, `AppWidgetManager`
+- `Kotlin`, `MVVM`, `AAC`, `AppWidgetManager`
 - Widget을 다루는 개발을 안 해봐서 경험 삼아 만들어 본 것도 있다.
-- 사이즈가 작은 앱임에도 습관적으로 Bitbucket을 쓰다 보니 소스가 비공개였다. 하지만 취업 전선에서 내 코드 스타일을 보여줄 필요가 있어서 이제와서야 GitHub에 올린다.
-- GitHub : 
+- 사이즈가 작은 앱임에도 습관적으로 Bitbucket을 쓰다 보니 소스가 비공개였다. 하지만 취업 전선에서 내 코드 스타일을 보여줄 필요가 있어서 이제와서야 아키텍쳐도 붙이고 GitHub에 공유한다.
+- GitHub : https://github.com/sleepybee-dev/picshelf
 
 
 Release

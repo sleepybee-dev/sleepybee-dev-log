@@ -2,6 +2,7 @@
 --
 Android 10 이상을 타겟팅하는 기기부터 외부 저장소 루트는 아예 사용할 수가 없고 몇 가지 허용된 공간만 사용 가능하다. 또, 사용 가능한 외부 저장소에 액세스할 경우에 SAF나 MediaStore를 사용하도록 강제되었다.
 
+
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://developer.android.com/training/data-storage/shared/media?hl=ko" target="_blank">
 	<div class="rich-link-image-container">
 		<div class="rich-link-image" style="background-image: url('https://developer.android.com/images/social/android-developers.png?hl=ko')">
@@ -23,6 +24,7 @@ Android 10 이상을 타겟팅하는 기기부터 외부 저장소 루트는 아
 
 MediaRecorder
 ---
+    
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://developer.android.com/guide/topics/media/mediarecorder?hl=ko" target="_blank">
 	<div class="rich-link-image-container">
 		<div class="rich-link-image" style="background-image: url('https://developer.android.com/images/social/android-developers.png?hl=ko')">

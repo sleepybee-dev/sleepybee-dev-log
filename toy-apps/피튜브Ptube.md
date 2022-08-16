@@ -1,4 +1,18 @@
-> 플레이스토어 : https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.ptube
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.ptube" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://play-lh.googleusercontent.com/_AHN3yJeSefJQr0qNdCs3Nc0rEzh836xV7C1nx2DVh3ivy5W6kWAJRQeUiw-Bn03Dw=w600-h300-pc0xffffff-pd')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">PTube - Private Video Channels - Apps on Google Play</h1>
+		<p class="rich-link-card-description">
+		Create your own private video channel.
+		</p>
+		<p class="rich-link-href">
+		https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.ptube
+		</p>
+	</div>
+</a></div>
 
 Concept
 ---

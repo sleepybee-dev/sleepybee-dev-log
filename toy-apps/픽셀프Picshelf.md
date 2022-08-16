@@ -1,4 +1,20 @@
-> 플레이스토어 : https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.picshelf
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.picshelf" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://play-lh.googleusercontent.com/Io_32thL5IlHQOel9o2EWGXRJV36EDa0MS-OwezejyoU7Mt0rwIfOeTb-WQbRmCUCA=w600-h300-pc0xffffff-pd')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">사진 액자 위젯 - 픽셸프 - Apps on Google Play</h1>
+		<p class="rich-link-card-description">
+		Check your photos on the home screen.
+		</p>
+		<p class="rich-link-href">
+		https://play.google.com/store/apps/details?id=com.gmail.sleepybee410.picshelf
+		</p>
+	</div>
+</a></div>
+
+
 
 <img src="../content/picshelf_launcher_icon.png" width=200/>
 

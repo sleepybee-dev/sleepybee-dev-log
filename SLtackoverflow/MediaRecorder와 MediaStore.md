@@ -9,9 +9,9 @@ Android 10 이상을 타겟팅하는 기기부터 외부 저장소 루트는 아
 	</div>
 	</div>
 	<div class="rich-link-card-text">
-		<h1 class="rich-link-card-title">공유 저장소의 미디어 파일에 액세스  |  Android 개발자  |  Android Developers</h1>
+		<h3 class="rich-link-card-title">공유 저장소의 미디어 파일에 액세스  |  Android 개발자  |  Android Developers</h3>
 		<p class="rich-link-card-description">
-		
+		 ---
 		</p>
 		<p class="rich-link-href">
 		https://developer.android.com/training/data-storage/shared/media?hl=ko
@@ -31,9 +31,9 @@ MediaRecorder
 	</div>
 	</div>
 	<div class="rich-link-card-text">
-		<h1 class="rich-link-card-title">MediaRecorder 개요  |  Android 개발자  |  Android Developers</h1>
+		<h3 class="rich-link-card-title">MediaRecorder 개요  |  Android 개발자  |  Android Developers</h3>
 		<p class="rich-link-card-description">
-		
+		---
 		</p>
 		<p class="rich-link-href">
 		https://developer.android.com/guide/topics/media/mediarecorder?hl=ko
@@ -54,7 +54,6 @@ recorder = new MediaRecorder(); recorder.setAudioSource(MediaRecorder.AudioSourc
 이 함수는 내부 저장소(data/data/{app_name})에서는 고대로 사용할 수 있다.
 하지만 MediaStore로 접근해야하는 외부 저장소를 사용할 때에는 더이상 String으로된 path로 접근할 수가 없다.
 
-![](notion://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7a8e7498-42fd-47cf-8ccd-96f96176aae8%2FUntitled.png?table=block&id=d4a1d8d2-e221-485b-882f-e9370da39e8d&spaceId=af9207a3-59aa-4089-9476-2a4e23b59e0e&width=2000&userId=8e06588c-ca26-4035-a617-f7de8b2c9902&cache=v2)
 그렇다면 outputFile의 Path를 어떻게 지정할 수 있을까? 
 setOutputFile은 FileDescriptor를 파라미터로 갖는 것이 있는데 이를 이용한다.
 

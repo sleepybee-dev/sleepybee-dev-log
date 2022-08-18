@@ -16,8 +16,7 @@
 
 diamond_dial_fab
 ---
-
-![[demo.gif]]
+<img src = "https://sleepybee-dev.netlify.app/docs/content/demo.gif" width=300/>
 
 **diamond_dial_fab**는 Flutter UI 오픈소스 라이브러리다. 다이아몬드 형태의 플로팅 버튼에 라운딩을 주고 Child Button을 갖는 것이 주요 기능이다. 전반적인 기능은 아래와 같다.
 

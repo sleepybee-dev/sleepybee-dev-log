@@ -2,8 +2,8 @@
 ---
 ### 8월
 
-```dataview
-TABLE date
-WHERE category="daily"
-SORT date DESC
-```
+date | title
+-----|-----
+08-16 | [[Come to the edge]]
+08-09 | [[역사적 폭우와 건강검진]]
+08-05 | [[옵시디언 블로그 개설]]

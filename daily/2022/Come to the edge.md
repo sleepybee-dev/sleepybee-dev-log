@@ -1,8 +1,8 @@
 ---
-data: 2022-08-16
+date: 2022-08-16
 ---
 
-2022-08-16
+`$=dv.current().date`
 
 Come to the Edge - Christopher Logue
 ---

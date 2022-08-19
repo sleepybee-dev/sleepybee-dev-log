@@ -17,7 +17,7 @@ Zola 공통 사항
 	<div class="rich-link-card-text">
 		<h3 class="rich-link-card-title">Google Search Console</h3>
 		<p class="rich-link-card-description">
-		
+		----
 		</p>
 		<p class="rich-link-href">
 		https://search.google.com/search-console

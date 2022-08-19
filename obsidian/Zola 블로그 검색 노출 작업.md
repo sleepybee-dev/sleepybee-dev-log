@@ -15,7 +15,7 @@ Zola 공통 사항
 	</div>
 	</div>
 	<div class="rich-link-card-text">
-		<h2 class="rich-link-card-title">Google Search Console</h2>
+		<h3 class="rich-link-card-title">Google Search Console</h3>
 		<p class="rich-link-card-description">
 		
 		</p>

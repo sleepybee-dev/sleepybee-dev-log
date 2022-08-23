@@ -75,7 +75,7 @@ GI편 구매하고 보니 역시 스캔 상태가  심각하다.
 아이패드에어4에서 세로로 두면 화질 저하를 확실하게 느낀다.
 대부분 읽을만 하지만 칸이 작은 경우 후리가나가 읽기 힘들다. 
 
-<img src="https://sleepybee-dev.netlify.app/docs/content/gi_1.jpeg" width=300/><img src="https://sleepybee-dev.netlify.app/docs/content/gi_2.jpeg" width=300/>
+<img src="https://sleepybee-dev.netlify.app/docs/content/gi1.jpeg" width=300/><img src="https://sleepybee-dev.netlify.app/docs/content/gi2.jpeg" width=300/>
 	이건 그래도 괜찮은 편. 소년만화 특성 상 후리가나가 전혀 다른 뜻의 카타가나인 경우도 많은데 그땐 읽기를 포기해야 한다. 뒷장 큰 칸에서 다시 언급해주길 바라며...
 
 

@@ -69,13 +69,13 @@ Apple ID나 소셜로 가입 시 [My페이지]->[유저 설정]->[어카운트 �
 
 헌터헌터 GI랑 개미편 다시 보고 싶어서 리디로 사려고 했는데 검열이 심하대서 북라이브 좀 더 써보고 이참에 원서로 구매할 예정.
 
-\+
+(추가)
 GI편 구매하고 보니 역시 스캔 상태가  심각하다.
 쿠폰으로 권당 1500원에 읽고 있기 때문에 참고 있다.
 아이패드에어4에서 세로로 두면 화질 저하를 확실하게 느낀다.
 대부분 읽을만 하지만 칸이 작은 경우 후리가나가 읽기 힘들다. 
 
-	<img src="https://sleepybee-dev.netlify.app/docs/content/gi_1.jpeg" width=300/><img src="https://sleepybee-dev.netlify.app/docs/content/gi_2.jpeg" width=300/>
+<img src="https://sleepybee-dev.netlify.app/docs/content/gi_1.jpeg" width=300/><img src="https://sleepybee-dev.netlify.app/docs/content/gi_2.jpeg" width=300/>
 	이건 그래도 괜찮은 편. 소년만화 특성 상 후리가나가 전혀 다른 뜻의 카타가나인 경우도 많은데 그땐 읽기를 포기해야 한다. 뒷장 큰 칸에서 다시 언급해주길 바라며...
 
 

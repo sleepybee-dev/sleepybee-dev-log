@@ -1,4 +1,4 @@
-https://honor-driven.dev/flutter-tweet-1-getx는-flutter의-앱의-성능과-품질을-저하시켰다-6de5335e8cb6
+[미디엄 :  GetX는 Flutter의 앱의 성능과 품질을 저하시켰다](https://honor-driven.dev/flutter-tweet-1-getx는-flutter의-앱의-성능과-품질을-저하시켰다-6de5335e8cb6)
 
 21년 7월 미디엄 글인데 GetX에 대한 네거티브가 트위터에서 논의되고 있다는 것이었다.
 

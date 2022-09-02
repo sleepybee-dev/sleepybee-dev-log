@@ -4,7 +4,7 @@
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I wish I could turn back time to prevent GetX from being created.<br><br>It is not only bloated, has questionable architecture decisions but misleading.<br><br>I genuinely believe it has decreased performance &amp; quality of Flutter apps using it.<br><br>Lesson learned: do not try to do *everything*.</p>&mdash; creativecreatorormaybenot (@creativemaybeno) <a href="https://twitter.com/creativemaybeno/status/1418148816444923906?ref_src=twsrc%5Etfw">July 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
- 시발점은 한 개발자의 **"시간을 되돌려 GetX가 만들어지는 걸 막고 싶다"**는 트윗.
+ 시발점은 한 개발자의 "**시간을 되돌려 GetX가 만들어지는 걸 막고 싶다**"는 트윗.
  
 >GetX는 과잉되어 있으며 아키텍쳐가 의심스럽고 오해를 만든다.
 >이걸 사용하는 것이 앱의 성능과 품질을 저하시킨다고 확신한다.

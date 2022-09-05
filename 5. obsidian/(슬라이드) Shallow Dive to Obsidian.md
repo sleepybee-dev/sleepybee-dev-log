@@ -1,7 +1,7 @@
 제1회 재개발코딩 모각코 공부자랑
 ## Shallow Dive To  OBSIDIAN
 https://obsidian.md
-![[Pasted image 20220902112837.png | 600]]
+![[obsidianlogo.png | 600]]
 
 ---
 

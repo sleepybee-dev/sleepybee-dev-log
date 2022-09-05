@@ -18,7 +18,7 @@
 	<div class="rich-link-card-text">
 		<h3 class="rich-link-card-title">Peter's Second 🧠</h3>
 		<p class="rich-link-card-description">
-		
+		Obsidian-zola Sample Blog
 		</p>
 		<p class="rich-link-href">
 		https://peteryuen.netlify.app
@@ -85,7 +85,7 @@ netlify에서 만든 site를 누르면 탭 중에 `Deploys`가 있을 것이다.
 자, 이제 자유롭게 쓰자.
 당신이 만든 폴더 구조가 곧 블로그의 메뉴 구조가 될 것이다.
 이미지를 붙여넣으면 content 폴더가 생성 될텐데 [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola)에서 content폴더는 자동으로 invisible해주니 블로그 메뉴엔 보이지 않는다.
-글 쓴 후 Git push만 하면 netlify가 레파지토리를 보고 있다가 수정사항에 맞춰 자동으로 사이트를 배포 해준다.
+글 쓴 후 Git push만 하면 netlify가 레파지토리를 보고 있다가 수정사항에 맞춰 자동으로 사이트를 배포 해준다. (1분 정도 소요되는 것 같다.)
 
 
 ## 8. Obsidian-git 플러그인 사용하기 (Optional)

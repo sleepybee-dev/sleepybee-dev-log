@@ -1,7 +1,9 @@
 이 글을 따라오면 메모-포스팅-발행까지 옵시디언 원툴로 가능해진다.
 심지어 무료다.(22년 8월 현재)
+
+Github 블로그를 만들어 본 적이 있다면 Github 블로그를 obsidian 구조로 제작한다고 생각하면 편하다.
  
-본 가이드에서 탬플릿은 내가 쓰고 있는 [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola)를 사용할 것이다. 몇 가지 검토해봤는데 옵시디언 데스크탑 앱이나 공식 퍼플리싱과 레이아웃이 비슷하고 Github에 있는 소스도 이해하기 편해서 선택했다.
+본 가이드에서는 내가 쓰고 있는 [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) 탬플릿을 사용할 것이다. 몇 가지 검토해봤는데 옵시디언 데스크탑 앱이나 공식 퍼플리싱과 레이아웃이 비슷하고 Github에 있는 소스도 이해하기 편해서 선택했다.
 
 > 다른 SGG도 사용가능하지만 obsidian의 데이터 구조를 그대로 활용할 수 있게끔 나온 탬플릿인 것이 좋다. 또한 마크다운 기본 문법이 아닌 아웃링크 \[\[\]\]가 링크화되게끔 처리되어 있어야 편하다.
 
@@ -33,6 +35,7 @@
 ## 1. 준비물
 Git과 Github에 대한 지식이 필요하다.
 Git과 Github이 뭔지 어떻게 쓰는지에 대한 얘기는 다루지 않겠다.
+
 
 
 ## 2. Github Repository 생성
@@ -71,7 +74,7 @@ netlify에서 만든 site를 누르면 탭 중에 `Deploys`가 있을 것이다.
 
 ## 5. Repository Checkout
 이제 Checkout하자. 
-주의할 점은 다른 PC, 모바일과 동기화를 하려면 iCloud, OneDrive, 구글 드라이브 등 내장되어있는 클라우드 위치에 넣어야 한다는 점이다. obsidian에서 공식 지원하는 건 iCloud, OneDrive 뿐이다.
+주의할 점은 다른 PC, 모바일과 동기화를 하려면 iCloud, OneDrive, 구글 드라이브 등 내장되어있는 클라우드 위치에 넣어야 한다는 점이다. obsidian에서 공식 지원하는 건 iCloud 뿐이나 로컬 파일로 관리되므로 어떤 클라우드를 사용해도 무방하다.(몇 가지 이슈가 있기는 한 것 같다)
 나의 경우 iCloud를 쓴다.
 옵시디언을 설치하면 기본적으로 있는 Obsidian 폴더 안에 레파지토리를 checkout했다.
 

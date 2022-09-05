@@ -41,16 +41,7 @@ Git과 Github이 뭔지 어떻게 쓰는지에 대한 얘기는 다루지 않겠
 아직 Checkout 하지 말자.
 
 
-## 3. netlify Site 생성
-netlify는 무료 퍼플리싱 플랫폼이다.
-github 레파지토리를 그대로 가져와서 배포해주는 시스템이 잘 돼있다.
-무엇보다 무료다.
-
-(1) [netlify](https://www.netlify.com) 가입 & 로그인
-(2) Add new site - Import an existing project - Github 클릭 후 내 레파지토리 선택
-
-
-## 4. Repository에 netlify.toml 파일 만들기
+## 3. Repository에 netlify.toml 파일 만들기
 `netlify.toml`는 메타 파일이지만 사실 진입 페이지 UI파일이나 다름없기 때문에 vault에 넣어서 같이 관리해줄 필요가 있는 파일이다. 그래서 Checkout 전에 만든다.
 
 (1) 레파지토리에서 Add File - Create New File - 파일명 `netlify.toml`
@@ -61,14 +52,24 @@ github 레파지토리를 그대로 가져와서 배포해주는 시스템이 �
 	- 그밖에 원하는 값 자유롭게 변경
 
 
-## 5. 최초 배포 (netlify deploy)
-netlify.toml이 작성되었다면 netlify에서 이 메타 파일을 한 번은 읽어줘야 한다.
+## 4. netlify Site 생성
+netlify는 무료 퍼플리싱 플랫폼이다.
+github 레파지토리를 그대로 가져와서 배포해주는 시스템이 잘 돼있다.
+무엇보다 무료다.
+
+(1) [netlify](https://www.netlify.com) 가입 & 로그인
+(2) Add new site - Import an existing project - Github 클릭 후 내 레파지토리 선택
+
+ 
+## 4-1. 최초 배포 (netlify deploy)
+이 순서대로 했다면 필요없지만 혹시 다른 순서로 작업했다면 최초 배포를 수동으로 해야하는 경우가 있다.
+netlify.toml이 작성된 후 netlify에서 이 메타 파일을 한 번은 읽어주기 위함이다.
 netlify에서 만든 site를 누르면 탭 중에 `Deploys`가 있을 것이다.
 우측 중단에 `Trigger deploy - Deploy site`
 ![[blogguide4.png]]
 
 
-## 6. Repository Checkout
+## 5. Repository Checkout
 이제 Checkout하자. 
 주의할 점은 다른 PC, 모바일과 동기화를 하려면 iCloud, OneDrive, 구글 드라이브 등 내장되어있는 클라우드 위치에 넣어야 한다는 점이다. obsidian에서 공식 지원하는 건 iCloud, OneDrive 뿐이다.
 나의 경우 iCloud를 쓴다.

@@ -32,8 +32,14 @@ n개의 노드가 각각 heapify해야 함.
 ![](https://gmlwjd9405.github.io/images/data-structure-heap/types-of-heap.png)
 
 
-
+## 활용 알고리즘 문제 유형
+1. N번째 큰 수/작은 수
+2. 중간값 구하기 (Two heaps)
+3. k개의 배열 합치기
+4. 최소값
+5. 
 
 ### References
 - 위키백과 - 힙 (자료 구조) https://ko.wikipedia.org/wiki/힙_(자료_구조)
 - [자료구조] 힙(heap)이란 https://gmlwjd9405.github.io/2018/05/10/data-structure-heap.html
+- 모각코 '재개발코딩' annyeong님 발표자료 : <안키워요 - JS heap>

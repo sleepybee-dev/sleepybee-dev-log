@@ -1,3 +1,7 @@
+---
+tag: obsidian
+---
+
 제1회 재개발코딩 모각코 공부자랑
 ## Shallow Dive To  OBSIDIAN
 https://obsidian.md

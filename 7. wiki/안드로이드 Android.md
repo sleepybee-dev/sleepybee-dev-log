@@ -16,3 +16,7 @@
 		- Android 8.0 (API 26) 이상을 타겟팅한다면 [백그라운드 실행이 제한된다.](https://developer.android.com/guide/components/services?hl=ko)
 3. 브로드캐스트 리시버 Broadcast Receiver
 4. 콘텐트 프로바이더 Content Provider
+
+
+### 개발 언어
+[[자바 Java]], [[코틀린 Kotlin]], Flutter

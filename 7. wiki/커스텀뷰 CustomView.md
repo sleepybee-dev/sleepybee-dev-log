@@ -1,5 +1,5 @@
 ## 커스텀뷰란
-안드로이드에서 기본적으로 제공하는 위젯들(TextView, Button, EditText, ListView 등)이 아니라 내 필요에 맞춰서 만든 View를 말한다.
+[[안드로이드 Android]]에서 기본적으로 제공하는 위젯들(TextView, Button, EditText, ListView 등)이 아니라 내 필요에 맞춰서 만든 View를 말한다.
 
 ## 커스텀뷰를 만드는 두 가지 방법
 1. 안드로이드 제공 UI를 확장한다.

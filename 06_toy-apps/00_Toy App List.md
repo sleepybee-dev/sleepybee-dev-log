@@ -1,5 +1,5 @@
 
-프로젝트명 | 개발언어 | Github
+프로젝트명 | 언어 | Github
 ----|----|---
 [[픽셀프Picshelf]] | Koltin | https://github.com/sleepybee-dev/picshelf
 [[피튜브Ptube]]|Flutter| Bitbucket 비공개

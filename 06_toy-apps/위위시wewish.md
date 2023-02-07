@@ -32,8 +32,6 @@ Simple Scenario
 - 위시 공유
 **![](https://lh6.googleusercontent.com/QG08G6mIc-K-FBD5BUwpjl16YTLhX14ts5Wx0o57dEu1cXXkhNCyBzrUfgT2Kel4-gNYDtu24AtXLJgmAFxicA1DZsfHv6AAJcZ_m0MYsYbv3XI7kzGy1BFPxhozdFJ_i4KRK0lhNRkRoinYTFsslh5zXg=s2048)**
 리스트를 공유할 수 있다. Firebase dynamic link를 활용했다.
-
-- 
    
 
 Dev Story
